@@ -1,5 +1,3 @@
-# message-app-backend
-
 This is a backend code for a simple chat application built with Ktor, a Kotlin framework for creating server-side applications. The project uses Koin for dependency injection and KMongo for interacting with MongoDB, a NoSQL database.
 
 Features:
@@ -15,3 +13,4 @@ The backend code includes routes for handling WebSocket connections, along with 
 
 Please note that I'm new to backend and Ktor so this is a basic implementation and may require further customization and security hardening depending on your specific use case. Proper testing and security measures should be implemented in a production environment.
 
+<img width="1045" alt="resim" src="https://user-images.githubusercontent.com/69902076/230777728-a077fd73-4a73-4785-9be0-cf8dcb5a474a.png">

@@ -13,5 +13,5 @@ Features:
 
 The backend code includes routes for handling WebSocket connections, along with functions for processing chat messages and managing chat sessions. Koin is used for dependency injection, allowing for modular and testable code. KMongo is used for seamless interaction with MongoDB, enabling efficient storage and retrieval of chat messages.
 
-Please note that this is a basic implementation and may require further customization and security hardening depending on your specific use case. Proper testing and security measures should be implemented in a production environment.
+Please note that I'm new to backend and Ktor so this is a basic implementation and may require further customization and security hardening depending on your specific use case. Proper testing and security measures should be implemented in a production environment.
 

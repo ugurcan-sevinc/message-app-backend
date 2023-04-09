@@ -3,7 +3,6 @@ package com.ugrcaan
 import com.ugrcaan.di.mainModule
 import io.ktor.server.application.*
 import com.ugrcaan.plugins.*
-import io.ktor.server.application.*
 import org.koin.ktor.plugin.Koin
 
 fun main(args: Array<String>): Unit =

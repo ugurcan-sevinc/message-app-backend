@@ -4,8 +4,6 @@ import com.ugrcaan.room.RoomController
 import com.ugrcaan.routes.chatSocket
 import com.ugrcaan.routes.getAllMessages
 import io.ktor.server.routing.*
-import io.ktor.server.response.*
-import io.ktor.server.application.*
 import io.ktor.server.application.*
 import org.koin.ktor.ext.inject
 
